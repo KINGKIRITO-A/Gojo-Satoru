@@ -22,23 +22,23 @@ global.APIKeys = {
 global.owner = ['+967736042856']
 global.premium = ['+967736042856']
 global.ownernomer = '+967736042856'
-global.ownername = 'ᏦᏆᖇᏆᎢᝪ'
-global.botname = 'Ҡ丨尺丨ㄒㄖ👑'
+global.ownername = 'ᏦᏆᖇᏆᎢO'
+global.botname = 'Ҡ丨尺丨ㄒㄖ'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'kirito-sama👑'
-global.author = 'KIRITO-ASONA'
+global.packname = 'kirito-sama'
+global.author = 'KIRITO-YUKIASONA'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    botAdmin: 'ADMIN DUMB SHIT!',
+    owner: 'OWNER ONLY!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
